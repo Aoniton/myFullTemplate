@@ -30,6 +30,10 @@
 .bg-color-work-history {
     background-color: #9b59b6;
 }
+
+.bg-color-contact {
+    background-color: #fff;
+}
 /* -----------------------------------------Special paddings / margins / text  */
 
 h1, 
@@ -236,7 +240,7 @@ footer {
     margin: 0;
 }
 
-.personal-info-item .key .{
+.personal-info-item .key {
     width: 30%;
     margin-right: 21px;
     padding-top: 2px;
@@ -323,7 +327,14 @@ footer {
     margin-bottom: 30px;
 }
 
+/* -----------------------------------------Contact Heading  */
 
+.contact-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
 
 
 
